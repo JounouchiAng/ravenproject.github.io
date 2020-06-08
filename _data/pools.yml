@@ -10,13 +10,20 @@
   url: https://bsod.pw
   twitter: '@BsodPool'
 
-- name: Coinblockers
-  url: https://rvn.coinblockers.com/
-  twitter: '@coinblockers'
+- name: Woolypooly
+  url: https://woolypooly.com/coin/rvn/stats
+  twitter: '@Woolypooly_com'
 
-- name: Cryptopool.party
-  url: https://cryptopool.party/
+- name: Beepool
+  url: https://www.beepool.org/
 
+- name: f2pool
+  url: https://www.f2pool.com/
+  twitter: '@f2pool_official'
+  
+- name: Flypool
+  url: https://ravencoin.flypool.org/
+  
 - name: Minermore
   url: https://minermore.com/
   twitter: '@MinerMore'
